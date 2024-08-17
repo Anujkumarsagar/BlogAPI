@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.2"
+  },
+  "name": "blogapi_be",
+  "version": "1.0.0",
+  "description": "Post -> Create/ Get\r Likes -> Like/Unlike\r Comment ->  Create/ Get",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
